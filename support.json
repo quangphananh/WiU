@@ -1,17 +1,62 @@
 [
   {
-  "question":"Sleep Music: Sleeping Music and Relaxing Music for Sleeping, Relax, Lullabies, Baby Music",
-  "answer": "PLQzmDP1HVzzY-qDhTgwQNQLi22DNDlQly",
+  "question":"What is WIU and why should I use it?",
+  "answer": "WiU is a platform where everyone can share their WIFI and get payment for each connection from other people. If you are the owner of the WIFI, now you can start earning money if you shared your WIFI for people around to access.",
+  "id":0
+  },
+{
+  "question":"WiU is Free?",
+  "answer": "Obsolutely Yes! The WiU is free 100% and we are expanding the range of shared WIFI to millions all over the world. This means billions of users now do not need to pay for 3G/4G/5G but still keep connecting to HD and 4K shared Internet Connection every where.",
   "id":1
   },
 {
-  "question":"Sleep Music: Sleeping Music and Relaxing Music for Sleeping, Relax, Lullabies, Baby Music",
-  "answer": "PLQzmDP1HVzzY-qDhTgwQNQLi22DNDlQly",
-  "id":1
+  "question":"Why I need turn off Mobile Data (3G/4G) before sharing my WIFI",
+  "answer": "This is because almost Mobile Provider not using secure connection for Mobile Data. While we are using the secure connection (SSL/HTTPS) to connect to our server to make sure every data you are sharing in protection. Turn off Mobile Data is a NEED for almost Mobile Network.",
+  "id":2
   },
 {
-  "question":"Sleep Music: Sleeping Music and Relaxing Music for Sleeping, Relax, Lullabies, Baby Music",
-  "answer": "PLQzmDP1HVzzY-qDhTgwQNQLi22DNDlQly",
-  "id":1
+  "question":"Why I need forget current WIFI before sharing my WIFI",
+  "answer": "This is the stricky policy of Android and IOS. The Application can NOT changed or update or detect the state of the WIFI saved in the system before. Forgetting the current WIFI to help the Application can detect your password provided is correct or not.",
+  "id":2
+  },
+{
+  "question":"Why I need turn off Mobile Data (3G/4G) before sharing my WIFI",
+  "answer": "This is because almost Mobile Provider not using secure connection for Mobile Data. While we are using the secure connection (SSL/HTTPS) to connect to our server to make sure every data you are sharing in protection. Turn off Mobile Data is a NEED for almost Mobile Network.",
+  "id":3
+  },
+{
+  "question":"What is minimum I can earn per month for my shared WIFI?",
+  "answer": "The cost for a connection is \$0.005 - \$0.1 (belongs to location of the shared WIFI. Please see the Region Detail Payment in the Balance page to know how much you get money when you share a WIFI locates on VietNam, Singapore, USA, Canada, India...). And if your WIFI is for Coffee Shop or Restaurant or nearly a Public place, where has minimum 50 - 100 people just make ONE connection to your shared WIFI per DAY, you can earn \$10 - \$150 per MONTH.",
+  "id":4
+  },
+{
+  "question":"How the security for the shared WIFI?",
+  "answer": "The shared password is never revealed/showed to people who used the WiU application. The information is saved on Google Server and the security is one of the highest security server in the world. In case you do not share your shared WIFI anymore, you can change the password and noone can access to your WIFI. But you would stop earning as well.",
+  "id":5
+  },
+{
+  "question":"What if I do not want share my WIFI anymore?",
+  "answer": "When you do not want to share your WIFI anymore, please change your password locally then noone can access your WIFI. If you want to remove it out of the map, please send the request to our support team.",
+  "id":6
+  },
+{
+  "question":"Select your form of payment",
+  "answer": "There are three payment methods for choosing.\n - The popular PayPal.\n - The bank account and money transfer directly to your bank.\n - The E-Cash like Momo, AliPay, GPay...",
+  "id":7
+  },
+{
+  "question":"Payment thresholds",
+  "answer": "Currently, when your earning reach \$100 is the thresholds for claim the payment.",
+  "id":8
+  },
+{
+  "question":"Payment schedule",
+  "answer": "After claming the payment when the thresholds reaches, the payment will before 30th of the month you claim.",
+  "id":9
+  },
+{
+  "question":"Why your account has a payment hold?",
+  "answer": "This is because you do not verify enough information of email and payment account.",
+  "id":10
   }
 ]
